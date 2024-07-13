@@ -1,1 +1,1 @@
-Shend
+@shendjs
