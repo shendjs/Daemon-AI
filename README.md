@@ -1,4 +1,3 @@
-```markdown
 # Daemon AI Chatbot
 
 Daemon AI is a Python-based chatbot project that uses TF-IDF and Cosine Similarity for response generation.
@@ -28,7 +27,7 @@ Daemon AI is a conversational AI chatbot built with Python. It leverages TF-IDF 
    ```bash
    git clone https://github.com/shendjs/daemon-ai.git
    cd daemon-ai
-   ```
+
 
 2. **Install dependencies:**
    ```bash
